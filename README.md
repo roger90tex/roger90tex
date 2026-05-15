@@ -61,9 +61,11 @@ React + TypeScript music application integrated with the iTunes API for artist a
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roger90tex&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roger90tex&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roger90tex&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger90tex&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+</p>
 
 ---
 
